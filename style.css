@@ -540,6 +540,7 @@ p , input , textarea {
 
 #section-servicos{
     width: 90%;
+    box-sizing: border-box;
 
 }
 #container{
